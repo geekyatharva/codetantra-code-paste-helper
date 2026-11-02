@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/codetantra-banner.png" width="100%">
+<img src="CodeTantra Smart Coding Companion.png" width="100%">
 </div>
 # CodeTantra Code Helper
 
